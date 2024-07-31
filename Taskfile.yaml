@@ -2,4 +2,4 @@ version: 3
 
 tasks:
   login:
-    cmd: ssh -i secret.txt ubuntu@54.168.239.22
+    cmd: ssh -i ctoa_isucon.pem ubuntu@54.168.239.22
