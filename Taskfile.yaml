@@ -1,0 +1,5 @@
+version: 3
+
+tasks:
+  login:
+    cmd: ssh -i secret.txt ubuntu@54.168.239.22
